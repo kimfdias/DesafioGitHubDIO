@@ -1,0 +1,9 @@
+As técnicas de caixa-preta são fundamentadas em documentos de requisitos, casos de uso, história do usuário, etc.
+Além disso, possuem foco nas entradas e saídas do teste, abstraindo a estrutura interna.
+
+Em suma, seria como:
+1. Particionamento de equivalencia;
+2. Análise de valor limite;
+3. Tabela de decisão;
+4. Transição de estado;
+5. Casos de uso

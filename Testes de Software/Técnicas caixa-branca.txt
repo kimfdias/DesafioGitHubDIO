@@ -1,0 +1,7 @@
+As técnicas de caixa branca são baseadas na estrutura interna do objeto de teste.
+Ainda, podem ser usadas em todos os níveis de teste, e normalmente são utilizadas para teste a nível de componente no código-fonte
+
+Esse tipo de técnica possuem dois tipos de cobertura:
+1. Cobertura de instruções: onde testa instruções executáveis do código
+2. Cobertura de decisões: ela é medida como (número de instruções executadas/total de instruções).
+Também testa as condicionais existentes no código e o que é executado em cada decisão.

@@ -1,0 +1,10 @@
+Os tipos de teste possuem objetivos específicos, tais como:
+
+* Avaliar a estrutura ou a arquitetura de um componente/sistema;
+* Avaliar efeitos de alterações em outras partes do código
+* Realização de testes funcionais e não funcionais
+
+Ainda nisso, podemos classificar esses tipos em outras diversas ramificações, porém, falaremos mais especificamente sobre alguns:
+1. Testes caixa-branca: Possuem foco em testes com base na arquitetura interna do sistema; no código fonte e no fluxo de dados
+
+2. Teste de mudanças: São testes de confiamção e de regressão, onde estes ultimos farão uma verificação de efeitos colaterais nas alterações de um componente do sistema
